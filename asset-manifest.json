@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-costs/static/css/main.2cb5e8f9.css",
+    "main.js": "/react-costs/static/js/main.690e3572.js",
+    "index.html": "/react-costs/index.html",
+    "main.2cb5e8f9.css.map": "/react-costs/static/css/main.2cb5e8f9.css.map",
+    "main.690e3572.js.map": "/react-costs/static/js/main.690e3572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb5e8f9.css",
+    "static/js/main.690e3572.js"
+  ]
+}
