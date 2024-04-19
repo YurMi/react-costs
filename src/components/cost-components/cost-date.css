@@ -1,0 +1,1 @@
+.date {    flex: 0 1 150px;    background-color: #3d72d4;    padding: 10px;    text-align: center;    color: #fff;    border: 1px solid #3b1c1c;}.date > *:not(:last-child) {    margin-bottom: 5px;}.date .date__month {    font-size: 24px;    font-weight: 100;}.date .date__number {    font-size: 26px;    font-weight: 800;}
